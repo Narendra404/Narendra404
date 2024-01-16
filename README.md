@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Narendra404
 - 👀 I’m interested in learning about Web, FOSS, and, programming in general 
-- 🌱 I’m currently learning about Spring boot and React
-- 💞️ I’m looking to collaborate on Back end technologies involving Java
+- 🌱 I’m currently learning about Spring Boot and React
+- 💞️ I’m looking to collaborate on back-end technologies involving Java
 - 📫 Reach me at [twitter](https://twitter.com/Naren_code) and [instagram](https://www.instagram.com/narendra616/). 
 
 <!---
