@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Narendra404
-- 👀 I’m interested in learning about anything 'computer related' and !'computer related' 
-- 🌱 I’m currently learning about 'anthing computer related'
-- 💞️ I’m looking to collaborate on anything (given the time and patience to learn it first)
+- 👀 I’m interested in learning about Web, FOSS, and, programming in general 
+- 🌱 I’m currently learning about Spring boot and React
+- 💞️ I’m looking to collaborate on Back end technologies involving Java
 - 📫 Reach me at [twitter](https://twitter.com/Naren_code) and [instagram](https://www.instagram.com/narendra616/). 
 
 <!---
